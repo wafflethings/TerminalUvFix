@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 997630885
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fixed_terminal.bundle
+      Dependencies: {}
